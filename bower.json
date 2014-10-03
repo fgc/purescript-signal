@@ -4,5 +4,6 @@
   "dependencies": {
     "purescript-dom": "~0.1.0"
   },
+  "ignore": [],
   "license": "Apache-2.0"
 }
