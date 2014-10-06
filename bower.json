@@ -1,9 +1,10 @@
 {
-  "name": "purescript-signal",
-  "version": "1.0.0",
-  "ignore": [],
-  "dependencies": {
-    "purescript-dom": "~0.1.0"
-  },
-  "license": "Apache-2.0"
+    "name": "purescript-signal",
+    "version": "1.0.0",
+    "ignore": [],
+    "main": [],
+    "dependencies": {
+	"purescript-dom": "~0.1.0"
+    },
+    "license": "Apache-2.0"
 }
